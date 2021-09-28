@@ -31,6 +31,6 @@ This is one of the dishes I made:
 ![Strawberry Shortcake](./strawberry%20shortcake.jpg)
 
 I would love to bake:
-[ ] lemon poppyseed muffins 
-[ ] pumpkin cookies
-[ ] sourdough bread
+- [ ] lemon poppyseed muffins 
+- [ ] pumpkin cookies
+- [ ] sourdough bread
