@@ -20,7 +20,7 @@ do while loop
 ```
 - I love dogs.
 
-One of my favorite food blogs for [Baking ](https://sallysbakingaddiction.com/).
+One of my favorite food blogs for [Baking](https://sallysbakingaddiction.com/).
 
 ## favorite things to bake:
 1. apple cider donuts 
